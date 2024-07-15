@@ -1,4 +1,4 @@
-# Curso Máster en Dirección Financiera - OBS Business School
+# Máster en Dirección Financiera - OBS Business School
 
 ¡Bienvenidos a mi repositorio de GitHub! Aquí encontrarás soluciones a exámenes, trabajos, resúmenes de libros y otros materiales relacionados con el curso de Máster en Dirección Financiera de la OBS Business School. Todo el contenido es desarrollado y compartido para facilitar el estudio y la colaboración entre compañeros de clase.
 
