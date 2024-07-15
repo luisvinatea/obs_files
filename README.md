@@ -15,8 +15,11 @@ Este repositorio está organizado en las siguientes secciones:
 
 ```
 ├── Asignaturas
-│   ├── modulo_1_examen_1.ipynb
-│   ├── modulo_2_trabajo_5.ipynb
+│   ├── modulo 1
+|       ├── examen_1.ipynb
+|       ├── trabajo_2_1.ipynb 
+│   ├── modulo 2
+|       ├── trabajo_5.ipynb
 │   └── ...
 ├── Libros
 │   ├── libro1_resumen.md
