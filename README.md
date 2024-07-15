@@ -41,7 +41,7 @@ Este repositorio está organizado en las siguientes secciones:
 Los scripts de Python incluidos en este repositorio están diseñados para ayudar con los cálculos financieros y el análisis de datos. Para ejecutarlos, asegúrate de tener Python instalado en tu máquina. Puedes utilizar los siguientes comandos para ejecutar los scripts desde la terminal:
 
 ```bash
-python Scripts/script1.py
+python scripts/script1.py
 ```
 
 ## Contribución
